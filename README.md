@@ -27,6 +27,8 @@ This repository is designed for practicing and mastering Git and GitHub commands
 ### Level 2: Collaboration & Remote Operations (Intermediate)
 **Goal**: Learn to work with remote repositories and collaborate with others
 
+📁 **Detailed exercises available in [level-2/](level-2/) folder**
+
 #### Week 3: Remote Repository Management
 - [ ] Add remote repository (`git remote add`)
 - [ ] Push changes to remote (`git push`)
@@ -43,6 +45,8 @@ This repository is designed for practicing and mastering Git and GitHub commands
 
 ### Level 3: Advanced Git Operations (Advanced)
 **Goal**: Master advanced Git features and workflow optimization
+
+📁 **Detailed exercises available in [level-3/](level-3/) folder**
 
 #### Week 5: Git History & Debugging
 - [ ] View detailed commit history (`git log --oneline --graph`)
