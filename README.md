@@ -7,6 +7,8 @@ This repository is designed for practicing and mastering Git and GitHub commands
 ### Level 1: Basic Git Operations (Beginner)
 **Goal**: Master fundamental Git commands and understand version control concepts
 
+📁 **Detailed exercises available in [level-1/](level-1/) folder**
+
 #### Week 1: Repository Setup & Basic Commands
 - [ ] Initialize a new Git repository (`git init`)
 - [ ] Clone an existing repository (`git clone`)
